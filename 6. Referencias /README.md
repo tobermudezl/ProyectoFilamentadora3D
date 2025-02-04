@@ -7,3 +7,4 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 # Videos para saber cosas que no teniamos ni idea de hacer 
 
 [Como usar un motor paso a paso con ESP32](https://www.youtube.com/watch?v=MP3kUJ6SFCQ)
+[Conectarlo con wifi el funcionamiento del motor paso a paso](https://www.youtube.com/watch?v=ysoVaclMy9Y)
