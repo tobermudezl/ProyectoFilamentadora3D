@@ -8,3 +8,13 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 
 [Como usar un motor paso a paso con ESP32](https://www.youtube.com/watch?v=MP3kUJ6SFCQ)
 [Conectarlo con wifi el funcionamiento del motor paso a paso](https://www.youtube.com/watch?v=ysoVaclMy9Y)
+
+# Esquemas de conexion
+
+Esquema de conexion del sensor de temperatura PT100 con el microcontrolador 
+
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/edit/main/6.%20Referencias/sensortemp.png)
+
+# Librerias de los electronicos
+
+
