@@ -5,6 +5,8 @@ En esta parte comenzamos a pensar lo que queremos como proyecto final, nuestra i
 En el siguiente link se podra observar el PDF donde estan todas estas informaciones a detalle :) [REQUERIMIENTOS PRESENTACION](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Requerimientos.pdf)
 # Diagrama de Flujo
 
+![alt text]()
+
 # Diagrama de Caja Negra - Sin tecnologia
 
 # Lista de Materiales
