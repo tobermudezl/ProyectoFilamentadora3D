@@ -13,7 +13,7 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 
 Esquema de conexion del sensor de temperatura PT100 con el microcontrolador 
 
-![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/edit/main/6.%20Referencias/sensortemp.png)
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/edit/main/6.%20Referencias/sensortemp.jpg)
 
 # Librerias de los electronicos
 
