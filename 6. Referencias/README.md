@@ -18,6 +18,10 @@ Esquema de conexion del sensor de temperatura DS18B20 con el microcontrolador ES
 
 ![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/esquematica.jpg)
 
+PinOUT de ESP32 WROOM DEVKITV1
+
+![esp32](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/ESP32-DOIT-DEV-KIT-v1-pinout-mischianti.png)
+
 # Librerias de los electronicos
 
 
