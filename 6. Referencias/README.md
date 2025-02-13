@@ -14,9 +14,9 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 
 # Esquemas de conexion
 
-Esquema de conexion del sensor de temperatura PT100 con el microcontrolador 
+Esquema de conexion del sensor de temperatura DS18B20 con el microcontrolador ESP32
 
-![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/sensortemp.jpg)
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/edit/main/6.%20Referencias/esquematica.jpg)
 
 # Librerias de los electronicos
 
