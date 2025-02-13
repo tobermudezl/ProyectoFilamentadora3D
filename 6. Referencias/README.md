@@ -10,13 +10,13 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 
 [Conectarlo con wifi el funcionamiento del motor paso a paso](https://www.youtube.com/watch?v=ysoVaclMy9Y)
 
-[Motor PASO A PASO con ULN2023AN Driver](https://www.youtube.com/watch?v=wLdFx4Kgc4M)
+[Motor PASO A PASO con ULN2023A Driver](https://www.youtube.com/watch?v=wLdFx4Kgc4M)
 
 # Esquemas de conexion
 
 Esquema de conexion del sensor de temperatura DS18B20 con el microcontrolador ESP32
 
-![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/edit/main/6.%20Referencias/esquematica.jpg)
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/esquematica.jpg)
 
 # Librerias de los electronicos
 
