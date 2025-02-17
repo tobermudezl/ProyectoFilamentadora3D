@@ -8,9 +8,15 @@ En el siguiente link se podra observar el PDF donde estan todas estas informacio
 
 # Diagrama de Caja Negra - Sin tecnologia
 
-![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20de%20Caja%20Negra.jpg)
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20de%20Caja%20Negra%20v2.jpg)
 
 # Lista de Materiales
+
+| **Material**  | **Cantidad**  | **Precio**|
+| ------------- |:-------------:|  --------:|
+| col 3 is      | right-aligned |    $1600  |
+| col 2 is      | centered      |    $12    |
+| zebra stripes | are neat      |     $1    |
 
 # Diagrama de Caja Negra - Con tecnologia
 
