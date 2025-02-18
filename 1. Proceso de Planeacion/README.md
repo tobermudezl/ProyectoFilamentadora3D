@@ -8,17 +8,30 @@ En el siguiente link se podra observar el PDF donde estan todas estas informacio
 
 # Diagrama de Caja Negra - Sin tecnologia
 
-![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20de%20Caja%20Negra%20v2.jpg)
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20de%20Caja%20Negra.jpg)
 
 # Lista de Materiales
 
-| **Material**  | **Cantidad**  | **Precio**|
-| ------------- |:-------------:|  --------:|
-| col 3 is      | right-aligned |    $1600  |
-| col 2 is      | centered      |    $12    |
-| zebra stripes | are neat      |     $1    |
+|          **Material**         | **Cantidad**  | 
+| ----------------------------- |:-------------:|
+| Motores PASO A PASO28BYJ8     | 2             |  
+| ULN2003A                      | 2             | 
+| Condensadores de 10mf         | 2             |    
+| Resistencia de 4.7K ohm       | 1             |  
+| ESP32 DEV KIT V1 DOIT         | 1             |
+| Resistencia ceramica 40W      | 1             |
+| Parte calentador plastico     | 1             |
+| Led Verde                     | 1             |
+| Resistencia  520 ohm          | 1             | 
+| LM7805 Regulador Voltaje      | 1             |
+| Cables o Jumpers              |               |
+
+
 
 # Diagrama de Caja Negra - Con tecnologia
+
+![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20Tecnologico.jpg)
+
 
 # Apoyo del Profe
 
