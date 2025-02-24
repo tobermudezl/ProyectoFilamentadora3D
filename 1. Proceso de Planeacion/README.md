@@ -33,6 +33,6 @@ En el siguiente link se podra observar el PDF donde estan todas estas informacio
 ![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/1.%20Proceso%20de%20Planeacion/Diagrama%20Tecnologico.jpg)
 
 
-# Apoyo del Profe
-
 # Paso a la fase 2
+
+Despues de todo planificado pasamos a la parte dos del proyecto.
