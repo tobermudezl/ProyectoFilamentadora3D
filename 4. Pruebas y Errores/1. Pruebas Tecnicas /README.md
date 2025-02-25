@@ -1,7 +1,4 @@
-# Proyecto: Pruebas y Mejoras en el Control de Motor Paso a Paso  
-
-## Sobre Nosotros  
-Somos un equipo de cuatro estudiantes de **primer semestre de Ingeniería Electrónica**. Durante el semestre, trabajamos en un proyecto de control de motores paso a paso y sensores, enfrentando varios problemas que nos llevaron a realizar cambios en los componentes y el código. Este documento describe los errores que encontramos y cómo los solucionamos.  
+# Proyecto: Pruebas y Mejoras en la Filamentadora
 
 ## Cambios y Mejoras Implementadas  
 
@@ -17,7 +14,7 @@ Uno de los mayores desafíos fue obtener lecturas correctas del sensor de temper
 - Uso de librerías incompatibles, que no permitían la correcta lectura del sensor.  
 - Conexiones incorrectas en el circuito, lo que dificultaba la transmisión de datos.  
 
-Tras múltiples pruebas, logramos obtener lecturas estables utilizando las librerías **OneWire** y **DallasTemperature**.  
+Tras múltiples pruebas, logramos obtener lecturas estables utilizando las librerías **libs**
 
 ### Problemas con la Velocidad del Motor Paso a Paso  
 Desde el inicio del proyecto, tuvimos dificultades para lograr que el motor se moviera a la velocidad deseada. Entre los problemas identificados estaban:  
