@@ -29,8 +29,5 @@ Durante el semestre, enfrentamos varios problemas técnicos que nos obligaron a 
 
 Este proyecto nos permitió aprender sobre la importancia de la documentación técnica, la depuración de código y la selección adecuada de componentes.  
 
-## Repositorio  
-Este repositorio contiene el código actualizado y los esquemáticos utilizados en el proyecto.  
-
 
 
