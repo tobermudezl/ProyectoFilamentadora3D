@@ -14,15 +14,15 @@ Este fue el primer video que vimos como idea inicial, sabiendo que nuestro proto
 
 # Esquemas de conexion
 
-Esquema de conexion del sensor de temperatura DS18B20 con el microcontrolador ESP32
+## Esquema de conexion del sensor de temperatura DS18B20 con el microcontrolador ESP32
 
 ![alt text](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/esquematica.jpg)
 
-PinOUT de ESP32 WROOM DEVKITV1
+## PinOUT de ESP32 WROOM DEVKITV1
 
 ![esp32](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/ESP32-DOIT-DEV-KIT-v1-pinout-mischianti.png)
 
-Conexion del LM7805
+## Conexion del LM7805
 
 ![adap](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/lm7805.png)
 
