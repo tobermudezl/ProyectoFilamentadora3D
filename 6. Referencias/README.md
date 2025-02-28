@@ -22,4 +22,7 @@ PinOUT de ESP32 WROOM DEVKITV1
 
 ![esp32](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/ESP32-DOIT-DEV-KIT-v1-pinout-mischianti.png)
 
+Conexion del LM7805
+
+![adap](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/lm7805.png)
 
