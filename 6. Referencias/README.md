@@ -22,6 +22,4 @@ PinOUT de ESP32 WROOM DEVKITV1
 
 ![esp32](https://github.com/tobermudezl/ProyectoFilamentadora3D/blob/main/6.%20Referencias/ESP32-DOIT-DEV-KIT-v1-pinout-mischianti.png)
 
-# Librerias de los electronicos
-
 
