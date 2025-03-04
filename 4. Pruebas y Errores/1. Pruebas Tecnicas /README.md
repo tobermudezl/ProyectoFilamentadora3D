@@ -14,15 +14,15 @@ Uno de los mayores desafíos fue obtener lecturas correctas del sensor de temper
 - Uso de librerías incompatibles, que no permitían la correcta lectura del sensor.  
 - Conexiones incorrectas en el circuito, lo que dificultaba la transmisión de datos.  
 
-Tras múltiples pruebas, logramos obtener lecturas estables utilizando las librerías **libs**
+Tras múltiples pruebas, logramos obtener lecturas estables utilizando las librerías basicas
 
 ### Problemas con la Velocidad del Motor Paso a Paso  
 Desde el inicio del proyecto, tuvimos dificultades para lograr que el motor se moviera a la velocidad deseada. Entre los problemas identificados estaban:  
 - Uso de la función `delay()`, lo que afectaba el rendimiento y velocidad del motor.  
 - Configuración incorrecta de la frecuencia de pasos, lo que generaba movimientos erráticos.  
-- Uso de la librería `Stepper.h`, que no nos permitió un control preciso de la velocidad y aceleración.  
+- Uso de la librería `Stepper.h`, que no nos permitió un control preciso de la velocidad y aceleración.
 
-Para solucionar esto, probamos con la librería **AccelStepper**, que nos permitió mejorar el control del motor y ajustar los parámetros de velocidad y aceleración.  
+Simplemente le damos un tiempo de descanso entre cada 90 grados
 
 ## Conclusiones  
 Durante el semestre, enfrentamos varios problemas técnicos que nos obligaron a investigar, probar diferentes soluciones y mejorar nuestra comprensión del funcionamiento de los motores paso a paso y sensores. Aunque en algunos momentos fue complicado, logramos resolver los errores y mejorar el desempeño del prototipo.  
