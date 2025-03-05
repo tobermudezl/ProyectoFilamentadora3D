@@ -8,7 +8,7 @@ import sys
 # Configuración del sensor DS18B20
 PIN_SENSOR = 12  # GPIO12
 TEMP_MIN = 18  # 0% corresponde a 18°C
-TEMP_MAX = 120  # Ajusta este valor según la temperatura máxima del dispositivo
+TEMP_MAX = 220  # Ajusta este valor según la temperatura máxima del dispositivo
 TEMP_UMBRAL_ALTA = 100  # Temperatura máxima para activar motores
 TEMP_UMBRAL_BAJA = 0  # Temperatura mínima para activar motores
 PIN_LED = 2  # LED integrado en el ESP32
